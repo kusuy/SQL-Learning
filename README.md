@@ -1,0 +1,2 @@
+# Sql  practice
+sql learning 
